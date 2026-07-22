@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-fihept.shadowdiary.com/sitemap.xml
